@@ -1,0 +1,16 @@
+.option{
+    background-color:white;
+}
+.correct
+{
+    background-color: green;
+    color: white;
+    box-shadow: 0 0 2px gray;
+}
+.incorrect
+{
+    background-color: red;
+    color: white;
+    box-shadow: 0 0 2px gray;
+}
+
